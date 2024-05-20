@@ -29,14 +29,14 @@ Este projeto tem como objetivo implementar o algoritmo de treinamento mediante A
 
 2. Ative o ambiente virtual:
 
-   - **Windows:**
-     ```sh
-     venv\Scripts\activate
-     ```
+   ```sh
+   cd venv
+   source Scripts/activate
+   ```
 
 3. Instale as bibliotecas necessárias:
    ```sh
-   pip install pandas numpy random math matplotlib
+   pip install pandas numpy matplotlib ipykernel scikit-learn
    ```
 
 ## Dependências
@@ -47,3 +47,5 @@ Este projeto tem como objetivo implementar o algoritmo de treinamento mediante A
 - random
 - math
 - matplotlib
+- ipykernel
+- scikit-learn
