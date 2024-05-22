@@ -10,10 +10,10 @@
 
 ## Equipe:
 
-- Ademir Guimarães da Costa Junior
-- Geovani Lopes Sampaio
-- Gustavo Pacífico S. S. Chaves
-- José Augusto de Almeida Neto
+- Ademir Guimarães da Costa Junior - 2015080075
+- Geovani Lopes Sampaio - 2015080033
+- Gustavo Pacífico S. S. Chaves - 2015080013
+- José Augusto de Almeida Neto - 2015080017
 
 ## Descrição do Projeto
 
