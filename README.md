@@ -36,7 +36,7 @@ Este projeto tem como objetivo implementar o algoritmo de treinamento mediante A
 
 3. Instale as bibliotecas necessárias:
    ```sh
-   pip install pandas numpy matplotlib ipykernel scikit-learn
+   pip install pandas numpy matplotlib ipykernel scikit-learn PrettyTable
    ```
 
 ## Dependências
